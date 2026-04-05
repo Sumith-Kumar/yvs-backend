@@ -1,0 +1,7 @@
+Flask
+flask-cors
+python-dotenv
+youtube-transcript-api
+groq
+yt-dlp
+requests
